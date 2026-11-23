@@ -1,0 +1,218 @@
+[
+  {
+    "route": "splashWhite",
+    "file": "01-splash-white.png"
+  },
+  {
+    "route": "splashCoral",
+    "file": "02-splash-coral.png"
+  },
+  {
+    "route": "splashBlack",
+    "file": "03-splash-black.png"
+  },
+  {
+    "route": "introOne",
+    "file": "04-intro-one.png"
+  },
+  {
+    "route": "introTwo",
+    "file": "05-intro-two.png"
+  },
+  {
+    "route": "introThree",
+    "file": "06-intro-three.png"
+  },
+  {
+    "route": "signIn",
+    "file": "07-sign-in.png"
+  },
+  {
+    "route": "signInActive",
+    "file": "08-sign-in-active.png"
+  },
+  {
+    "route": "forgot",
+    "file": "09-forgot.png"
+  },
+  {
+    "route": "resetSent",
+    "file": "10-reset-sent.png"
+  },
+  {
+    "route": "register",
+    "file": "11-register.png"
+  },
+  {
+    "route": "registerActive",
+    "file": "12-register-active.png"
+  },
+  {
+    "route": "phone",
+    "file": "13-phone.png"
+  },
+  {
+    "route": "phoneActive",
+    "file": "14-phone-active.png"
+  },
+  {
+    "route": "verify",
+    "file": "15-verify.png"
+  },
+  {
+    "route": "address",
+    "file": "16-address.png"
+  },
+  {
+    "route": "addressEntry",
+    "file": "17-address-entry.png"
+  },
+  {
+    "route": "home",
+    "file": "18-home.png"
+  },
+  {
+    "route": "homeGrid",
+    "file": "19-home-grid.png"
+  },
+  {
+    "route": "homeList",
+    "file": "20-home-list.png"
+  },
+  {
+    "route": "homeFavorites",
+    "file": "21-home-favorites.png"
+  },
+  {
+    "route": "featuredList",
+    "file": "22-featured-list.png"
+  },
+  {
+    "route": "featuredGrid",
+    "file": "23-featured-grid.png"
+  },
+  {
+    "route": "restaurant",
+    "file": "24-restaurant.png"
+  },
+  {
+    "route": "restaurantCompact",
+    "file": "25-restaurant-compact.png"
+  },
+  {
+    "route": "dish",
+    "file": "26-dish.png"
+  },
+  {
+    "route": "cart",
+    "file": "27-cart.png"
+  },
+  {
+    "route": "addCard",
+    "file": "28-add-card.png"
+  },
+  {
+    "route": "filterType",
+    "file": "29-filter-type.png"
+  },
+  {
+    "route": "filterSort",
+    "file": "30-filter-sort.png"
+  },
+  {
+    "route": "filterPrice",
+    "file": "31-filter-price.png"
+  },
+  {
+    "route": "filters",
+    "file": "32-filters.png"
+  },
+  {
+    "route": "searchRestaurants",
+    "file": "33-search-restaurants.png"
+  },
+  {
+    "route": "search",
+    "file": "34-search.png"
+  },
+  {
+    "route": "searching",
+    "file": "35-searching.png"
+  },
+  {
+    "route": "resultsList",
+    "file": "36-results-list.png"
+  },
+  {
+    "route": "resultsGrid",
+    "file": "37-results-grid.png"
+  },
+  {
+    "route": "orders",
+    "file": "38-orders.png"
+  },
+  {
+    "route": "orderDetails",
+    "file": "39-order-details.png"
+  },
+  {
+    "route": "orderSuccess",
+    "file": "40-order-success.png"
+  },
+  {
+    "route": "homeCart",
+    "file": "41-home-cart.png"
+  },
+  {
+    "route": "account",
+    "file": "42-account.png"
+  },
+  {
+    "route": "profile",
+    "file": "43-profile.png"
+  },
+  {
+    "route": "password",
+    "file": "44-password.png"
+  },
+  {
+    "route": "paymentEmpty",
+    "file": "45-payment-empty.png"
+  },
+  {
+    "route": "cards",
+    "file": "46-cards.png"
+  },
+  {
+    "route": "locations",
+    "file": "47-locations.png"
+  },
+  {
+    "route": "socials",
+    "file": "48-socials.png"
+  },
+  {
+    "route": "refer",
+    "file": "49-refer.png"
+  },
+  {
+    "route": "share",
+    "file": "50-share.png"
+  },
+  {
+    "route": "scan",
+    "file": "51-scan.png"
+  },
+  {
+    "route": "browse",
+    "file": "52-browse.png"
+  },
+  {
+    "route": "nearby",
+    "file": "53-nearby.png"
+  },
+  {
+    "route": "reviews",
+    "file": "54-reviews.png"
+  }
+]
